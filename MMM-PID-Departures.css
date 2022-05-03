@@ -1,0 +1,7 @@
+.departures td {
+  padding-inline: 0.3em;
+}
+
+.departures tr td:first-child {
+  text-align: end;
+}
